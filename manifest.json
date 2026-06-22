@@ -2,7 +2,7 @@
   "name": "KIOS DUBBING",
   "short_name": "KIOSdubbing",
   "description": "Streaming Dan Download Dubbing Indonesia",
-  "start_url": "https://gudangdubbing.my.id",
+  "start_url": "https://gudangdubbing.my.id/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
